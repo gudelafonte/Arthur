@@ -70,4 +70,4 @@ Professional graduated in Automation Engineering, computer technician, post-grad
 Keyword: Business Intelligence, Leadership, People Management, data analysis, Power BI, DAX, Tableau, Black Belt, Prediction Model, Linear regression, machine learning, deep learning, recommendation system, SQL, NoSQL, ETL.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download meu {{< staticref "uploads/Resume - Arthur Albuquerque Portuguese.pdf" "newtab" >}}CV{{< /staticref >}}.
