@@ -3,7 +3,7 @@ title: Bem vindo ao meu primeiro Post
 subtitle: Bem vindo 👋 estou muito feliz de ter encontrado essa plataforma para começar a postar meus trabalhos na web.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Bem vindo 👋 estou muito feliz de ter encontrado essa plataforma para começar a postar meus trabalhos na web.
 
 # Link this post with a project
 projects: []
